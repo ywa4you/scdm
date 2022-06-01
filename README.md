@@ -1,6 +1,6 @@
 # scdm - SoundCloud Download Music
 
-Download any Track from Soundcloud into a FLAC file with all the usefull metadata.
+Download any track from Soundcloud into a FLAC file with all the usefull metadata.
 
 **THIS TOOL IS FOR DEMONSTRATIONAL OR EDUCATIONAL PURPOSES ONLY!**
 
@@ -15,7 +15,7 @@ yt-dlp wget metaflac ImageMagick
 Clone the repository
 
 ```
-$ git clone "https://github.com/ywa4you/scdm"
+$ git clone "https://github.com/ywa4you/scdm.git"
 ```
 
 Link the scdm.sh into a folder in your $PATH variable
